@@ -34,4 +34,4 @@ steps:
 
 - task: CmdLine@2
   inputs:
-    script: 'dotnet publish -c release'
+    script: 'dotnet publish'
